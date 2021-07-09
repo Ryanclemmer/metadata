@@ -5,6 +5,6 @@ this is a tool to loop thru a folder to find all photos or select one photo and 
 
 https://github.com/ianare/exif-samples images to test this tool with.
 
-library used, https://github.com/oozcitak/exiflibrary.
+library used, https://github.com/oozcitak/exiflibrary, https://github.com/devedse/exiflibrary .
 
 
