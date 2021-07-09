@@ -1,0 +1,14 @@
+C:\Users\Ryan\source\repos\metadata\metadata\bin\Debug\metadata.exe.config
+C:\Users\Ryan\source\repos\metadata\metadata\bin\Debug\metadata.exe
+C:\Users\Ryan\source\repos\metadata\metadata\bin\Debug\metadata.pdb
+C:\Users\Ryan\source\repos\metadata\metadata\bin\Debug\ExifLibrary.dll
+C:\Users\Ryan\source\repos\metadata\metadata\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ryan\source\repos\metadata\metadata\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ryan\source\repos\metadata\metadata\obj\Debug\metadata.csproj.AssemblyReference.cache
+C:\Users\Ryan\source\repos\metadata\metadata\obj\Debug\metadata.Form1.resources
+C:\Users\Ryan\source\repos\metadata\metadata\obj\Debug\metadata.Properties.Resources.resources
+C:\Users\Ryan\source\repos\metadata\metadata\obj\Debug\metadata.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\metadata\metadata\obj\Debug\metadata.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\metadata\metadata\obj\Debug\metadata.csproj.CopyComplete
+C:\Users\Ryan\source\repos\metadata\metadata\obj\Debug\metadata.exe
+C:\Users\Ryan\source\repos\metadata\metadata\obj\Debug\metadata.pdb
